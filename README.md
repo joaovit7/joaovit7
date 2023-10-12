@@ -1,7 +1,8 @@
 <h1 align="center">ola,eu sou o João Vitor</h1>
-<h3 align="center">sou estudante de banco de dados</h3>
-
-- 🌱 I’m currently learning **Atualmente,estou aprendendo sql,sql server e oracle**
+<h3 align="center">sou estudante de desenvolvimento e banco de dados</h3>
+,
+- 🌱 I’m currently learning **Atualmente,estou estudando javascript e desenvolvimento backend,
+também tenho alguns conhecimentos em banco de dados my sql e postgres**
 
 - 💬 Ask me about **tenho um conhecimento básico sobre desenvolvimento e banco de dados**
 
